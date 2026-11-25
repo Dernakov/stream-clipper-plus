@@ -1,0 +1,32 @@
+{
+  "statusLine": {
+    "type": "command",
+    "command": "python -B .claude/statusline.py"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(python clipper.py:*)",
+      "Bash(python раскладка.py:*)",
+      "Bash(python скачать.py:*)",
+      "Bash(python проверка.py:*)",
+      "Bash(python матч.py:*)",
+      "Bash(python движок/clipper.py:*)",
+      "Bash(python движок/раскладка.py:*)",
+      "Bash(python движок/скачать.py:*)",
+      "Bash(python движок/проверка.py:*)",
+      "Bash(python движок/матч.py:*)",
+      "Bash(ffprobe:*)",
+      "PowerShell(python clipper.py:*)",
+      "PowerShell(python раскладка.py:*)",
+      "PowerShell(python скачать.py:*)",
+      "PowerShell(python проверка.py:*)",
+      "PowerShell(python матч.py:*)",
+      "PowerShell(python движок/clipper.py:*)",
+      "PowerShell(python движок/раскладка.py:*)",
+      "PowerShell(python движок/скачать.py:*)",
+      "PowerShell(python движок/проверка.py:*)",
+      "PowerShell(python движок/матч.py:*)",
+      "PowerShell(ffprobe:*)"
+    ]
+  }
+}
